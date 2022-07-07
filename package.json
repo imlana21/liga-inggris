@@ -11,7 +11,7 @@
     "css-loader": "^3.5.3",
     "firebase-tools": "^8.4.2",
     "html-webpack-plugin": "^4.3.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "style-loader": "^1.2.1",
     "web-push": "^3.4.4",
     "webpack": "^4.43.0",
